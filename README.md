@@ -11,6 +11,6 @@ Second attempt at a To Do App in Swift
 * Have fun reaction when checking off items
 * Implement a check off rather than simple deletion of items when done
 
-![todo1](https://cloud.githubusercontent.com/assets/2258709/24480462/743c2d54-14b2-11e7-926a-5bc98552ef3c.png)
+![simulator screen shot mar 29 2017 7 14 31 pm](https://cloud.githubusercontent.com/assets/2258709/24480756/fe1ab29c-14b3-11e7-9e82-93de07e7c6ad.png)
 
-![todo2](https://cloud.githubusercontent.com/assets/2258709/24480476/8deb9bfe-14b2-11e7-8358-8c0d298a4637.png)
+
