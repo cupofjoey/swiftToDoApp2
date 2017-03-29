@@ -13,6 +13,7 @@
 		DEB7671F1E8C59B5007F51C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEB7671D1E8C59B5007F51C1 /* Main.storyboard */; };
 		DEB767211E8C59B5007F51C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DEB767201E8C59B5007F51C1 /* Assets.xcassets */; };
 		DEB767241E8C59B5007F51C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEB767221E8C59B5007F51C1 /* LaunchScreen.storyboard */; };
+		DEB7672C1E8C75E8007F51C1 /* background_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DEB7672B1E8C75E8007F51C1 /* background_2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DEB767201E8C59B5007F51C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DEB767231E8C59B5007F51C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DEB767251E8C59B5007F51C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DEB7672B1E8C75E8007F51C1 /* background_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background_2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				DEB7671B1E8C59B5007F51C1 /* SecondViewController.swift */,
 				DEB7671D1E8C59B5007F51C1 /* Main.storyboard */,
 				DEB767201E8C59B5007F51C1 /* Assets.xcassets */,
+				DEB7672B1E8C75E8007F51C1 /* background_2.jpg */,
 				DEB767221E8C59B5007F51C1 /* LaunchScreen.storyboard */,
 				DEB767251E8C59B5007F51C1 /* Info.plist */,
 			);
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DEB7672C1E8C75E8007F51C1 /* background_2.jpg in Resources */,
 				DEB767241E8C59B5007F51C1 /* LaunchScreen.storyboard in Resources */,
 				DEB767211E8C59B5007F51C1 /* Assets.xcassets in Resources */,
 				DEB7671F1E8C59B5007F51C1 /* Main.storyboard in Resources */,
